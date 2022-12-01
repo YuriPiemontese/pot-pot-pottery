@@ -1,0 +1,76 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "name": "Ring O",
+      "price": "€ 70,00",
+      "imgUrl": "gs://pot-pot-pottery.appspot.com/1-ring-o.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Vlad",
+      "price": "€ 40,00",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/pot-pot-pottery.appspot.com/o/2-vlad.jpeg?alt=media&token=58af7d61-75b9-4b69-971d-5e85c0e49d57"
+    },
+    {
+      "id": 3,
+      "name": "Bombolot",
+      "price": "€ 40,00",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/pot-pot-pottery.appspot.com/o/3-bombolot.jpeg?alt=media&token=c1027563-588a-4197-ba91-aa9e52797ff8"
+    },
+    {
+      "id": 4,
+      "name": "Mr. Cappellino",
+      "price": "€ 70,00",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/pot-pot-pottery.appspot.com/o/4-mr-cappellino.jpeg?alt=media&token=92bcf972-0501-4b09-9b7e-68a1747caf2c"
+    },
+    {
+      "id": 5,
+      "name": "Fricchiolo",
+      "price": "€ 40,00",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/pot-pot-pottery.appspot.com/o/5-fricchiolo.jpeg?alt=media&token=86557264-cc1c-4af7-b4dc-df99615c3eb6"
+    },
+    {
+      "id": 6,
+      "name": "Just a wizard bag",
+      "price": "€ 70,00",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/pot-pot-pottery.appspot.com/o/6-just-a-wizard-bag.jpeg?alt=media&token=6e90f676-3cd9-4740-9098-435bd9daced3"
+    },
+    {
+      "id": 7,
+      "name": "Cipicciolo",
+      "price": "€ 40,00",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/pot-pot-pottery.appspot.com/o/7-cippicciolo.jpeg?alt=media&token=d54611fd-122a-47b2-95ef-5a30f45e1c4c"
+    },
+    {
+      "id": 8,
+      "name": "Signor Baba Puntolo",
+      "price": "€ 70,00",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/pot-pot-pottery.appspot.com/o/8-signor-baba-puntolo.jpeg?alt=media&token=bac320e5-2c68-4ba4-8ab3-0036e34c1bf6"
+    },
+    {
+      "id": 9,
+      "name": "WackoCups",
+      "price": "€ 240,00",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/pot-pot-pottery.appspot.com/o/9-wackocups.jpeg?alt=media&token=c9ffc46d-7d42-4502-9b1a-f1d121fff011"
+    },
+    {
+      "id": 10,
+      "name": "Verdefono",
+      "price": "€ 120,00",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/pot-pot-pottery.appspot.com/o/10-verdefono.jpeg?alt=media&token=d761e83b-1ca5-4b1d-be34-0445ef6d7fc0"
+    },
+    {
+      "id": 11,
+      "name": "Carved Pot",
+      "price": "€ 70,00",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/pot-pot-pottery.appspot.com/o/11-carved-pot.jpeg?alt=media&token=bd528462-63d3-47b6-94d0-b7918ddec866"
+    },
+    {
+      "id": 12,
+      "name": "Lemme Lemme",
+      "price": "€ 40,00",
+      "imgUrl": "https://firebasestorage.googleapis.com/v0/b/pot-pot-pottery.appspot.com/o/12-lemme-lemme.jpeg?alt=media&token=2b00ad4d-e0e6-41d9-afe1-222877622db3"
+    }
+  ]
+}
